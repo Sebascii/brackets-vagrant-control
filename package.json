@@ -1,0 +1,12 @@
+{
+    "name": "vagrant-control",
+    "title": "Vagrant control",
+    "description": "Integrates with command-line Vagrant.",
+    "homepage": "https://github.com/Sebascii/brackets-vagrant-control.git",
+    "version": "0.0.1",
+    "author": "Sebastian Gil <sebastianhgil@gmail.com>",
+    "license": "MIT",
+    "engines": {
+        "brackets": ">=0.44.0"
+    }
+}
